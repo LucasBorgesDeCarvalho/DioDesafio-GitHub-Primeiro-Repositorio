@@ -1,0 +1,7 @@
+
+Após pesquisas para saber o que é e como funciona o Git e o GitHub um dos melhores sites que encontrei
+foi o da alura que destrincha bastante sobre: o que realmente é o Git e o GitHub, como configurar e o
+passo a passo.
+
+Link do site (ALURA):
+https://www.alura.com.br/artigos/o-que-e-git-github?gclid=Cj0KCQjwspKUBhCvARIsAB2IYutFDZd_t3WCBtMnbJLEOv83pbGw3bFrfQU3-xjudh7cT0RDurhMENwaAl7REALw_wcB
